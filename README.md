@@ -21,5 +21,5 @@ In this project, we focus on the following key areas:
 
 ## Kaggle Profile
 
-Check out my Kaggle profile for more projects and competitions: [My Kaggle Profile]([https://www.kaggle.com/yourusername](https://www.kaggle.com/jamsheddf))
+Check out my Kaggle profile for more projects and competitions: [My Kaggle Profile](https://www.kaggle.com/jamsheddf)
 
