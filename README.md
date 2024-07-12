@@ -1,7 +1,5 @@
 # Introduction-To-Machine-Learning
 
-# Machine Learning Project
-
 ## Introduction
 Welcome to our Machine Learning project! This repository contains all the resources and code necessary to understand and implement basic machine learning models using popular libraries like pandas, scikit-learn, matplotlib, and seaborn.
 
