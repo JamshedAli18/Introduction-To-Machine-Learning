@@ -21,4 +21,7 @@ In this project, we focus on the following key areas:
 - **matplotlib:** For creating static, animated, and interactive visualizations.
 - **seaborn:** For making statistical graphics.
 
+## Kaggle Profile
+
+Check out my Kaggle profile for more projects and competitions: [My Kaggle Profile]([https://www.kaggle.com/yourusername](https://www.kaggle.com/jamsheddf))
 
